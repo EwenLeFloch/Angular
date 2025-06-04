@@ -26,22 +26,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Step 02
+## Description
 
-Clone the repository from https://github.com/jmcooper/joes-robot-shop
+> This project is made by following the Angular course of Pluralsight step by step
+> Each step matches a git tag
+> This Readme file will describe what is expected for each step
 
+## Step 01
 
-## Step 02
-
-Clone the repository from https://github.com/jmcooper/joes-robot-shop
-
-
-## Step 02
-
-Clone the repository from https://github.com/jmcooper/joes-robot-shop
-
+Write and execute "Hello world !"
 
 ## Step 02
 
 Clone the repository from https://github.com/jmcooper/joes-robot-shop
-

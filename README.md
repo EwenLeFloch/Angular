@@ -40,7 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Step 01
 
 Write and execute "Hello world !"
-_[Tag]_(https://github.com/EwenLeFloch/Angular/releases/tag/step-01)
+_[Tag](https://github.com/EwenLeFloch/Angular/releases/tag/step-01)_
 
 ## Step 02
 

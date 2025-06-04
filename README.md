@@ -37,9 +37,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > Each step matches a git tag\
 > This Readme file will describe what is expected for each step
 
-## Step 01 [Tag](https://github.com/EwenLeFloch/Angular/releases/tag/step-01)
+## Step 01
 
 Write and execute "Hello world !"
+_[Tag]_(https://github.com/EwenLeFloch/Angular/releases/tag/step-01)
 
 ## Step 02
 

@@ -1,5 +1,15 @@
 # JoesRobotShop
 
+## Description
+
+> This project is made by following the Angular course of Pluralsight step by step
+> Each step matches a git tag
+> This Readme file will describe what is expected for each step
+
+## Step 1
+
+Replace write and execute "Hello world !"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
 ## Development server

@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Description
 
-> This project is made by following the Angular course of Pluralsight step by step
-> Each step matches a git tag
+> This project is made by following the Angular course of Pluralsight step by step\
+> Each step matches a git tag\
 > This Readme file will describe what is expected for each step
 
 ## Step 01

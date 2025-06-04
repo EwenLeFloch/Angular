@@ -17,7 +17,7 @@ echo "❌ Utilisation : ./git-stage.sh <tag> \"Description complète de l'étape
   README_FILE="README.md"
   STEP_HEADER="## Step $TAG_NUM"
 
-  echo -e "\n$STEP_HEADER\n$STEP_DESCRIPTION\n" >>"$README_FILE"
+  echo -e "\n$STEP_HEADER\n$STEP_DESCRIPTION\n_[Code étape $TAG_NUM](https://github.com/EwenLeFloch/Angular/releases/tag/$TAG_NAME)_\n" >>"$README_FILE"
   echo "📘 README.md mis à jour avec l'étape $TAG_NUM"
 
   # Git commands

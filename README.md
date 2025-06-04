@@ -39,9 +39,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Step 01
 
-Write and execute "Hello world !"
-_[Tag](https://github.com/EwenLeFloch/Angular/releases/tag/step-01)_
+Write and execute "Hello world !"\
+_[Code étape 01](https://github.com/EwenLeFloch/Angular/releases/tag/step-01)_
 
 ## Step 02
 
 Clone the repository from https://github.com/jmcooper/joes-robot-shop
+_[Code étape 02](https://github.com/EwenLeFloch/Angular/releases/tag/step-02)_

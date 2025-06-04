@@ -1,15 +1,5 @@
 # JoesRobotShop
 
-## Description
-
-> This project is made by following the Angular course of Pluralsight step by step
-> Each step matches a git tag
-> This Readme file will describe what is expected for each step
-
-## Step 1
-
-Replace write and execute "Hello world !"
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
 ## Development server
@@ -35,3 +25,23 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Step 02
+
+Clone the repository from https://github.com/jmcooper/joes-robot-shop
+
+
+## Step 02
+
+Clone the repository from https://github.com/jmcooper/joes-robot-shop
+
+
+## Step 02
+
+Clone the repository from https://github.com/jmcooper/joes-robot-shop
+
+
+## Step 02
+
+Clone the repository from https://github.com/jmcooper/joes-robot-shop
+

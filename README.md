@@ -46,3 +46,8 @@ _[Code étape 01](https://github.com/EwenLeFloch/Angular/releases/tag/step-01)_
 
 Clone the repository from https://github.com/jmcooper/joes-robot-shop \
 _[Code étape 02](https://github.com/EwenLeFloch/Angular/releases/tag/step-02)_
+
+## Step 03
+Create a new component 'home'
+_[Code étape 03](https://github.com/EwenLeFloch/Angular/releases/tag/Step-03)_
+

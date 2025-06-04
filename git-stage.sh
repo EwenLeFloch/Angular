@@ -19,7 +19,7 @@ echo "🏷️ Création du tag : $TAG_NAME"
 git add .
 git commit -m "$1"
 git tag -a "$TAG_NAME" -m "$1"
-git push origin main
+git push origin master
 git push origin "$TAG_NAME"
 
 echo "✅ Étape enregistrée et poussée avec succès !"

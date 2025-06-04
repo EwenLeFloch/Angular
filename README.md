@@ -1,5 +1,8 @@
 # JoesRobotShop
 
+<details>
+<summary>Project Setup</summary>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
 ## Development server
@@ -26,13 +29,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+</details>
+
 ## Description
 
 > This project is made by following the Angular course of Pluralsight step by step\
 > Each step matches a git tag\
 > This Readme file will describe what is expected for each step
 
-## Step 01
+## Step 01 [Tag](https://github.com/EwenLeFloch/Angular/releases/tag/step-01)
 
 Write and execute "Hello world !"
 

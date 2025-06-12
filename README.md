@@ -51,3 +51,8 @@ _[Code étape 02](https://github.com/EwenLeFloch/Angular/releases/tag/step-02)_
 Create a new component 'home'
 _[Code étape 03](https://github.com/EwenLeFloch/Angular/releases/tag/Step-03)_
 
+
+## Step 04
+Etape 4 : Display images with css and html
+_[Code étape 04](https://github.com/EwenLeFloch/Angular/releases/tag/step-04)_
+
